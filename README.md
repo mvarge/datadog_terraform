@@ -49,6 +49,7 @@ This will validate your syntax and output some information identifying what will
 ```
 $ terraform apply
 ```
+
 ## Author
 Marcelo Marques da Silva Varge
 (marcelo.varge at gmail)
